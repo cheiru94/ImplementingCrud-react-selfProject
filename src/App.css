@@ -1,0 +1,41 @@
+
+body{
+  background-image : url('./ukiyoe4.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+  height: 100vh;
+  background-position:center;
+  margin-left:50px;
+  color:white;
+  background-attachment: fixed;
+}
+a {
+  text-decoration-line: none;
+  color : white;
+  
+}
+a:active{
+  color : red;
+}
+h1{
+  font-size:150px
+}
+h2{
+  font-size:70px;
+}
+article{
+  font-size:40px;
+  
+}
+li{
+  font-size:50px;
+}
+a.createprop  {
+  color:pink;
+  font-size:50px;
+  margin-right:50px
+}
+a.updateprop  {
+  color:pink;
+  font-size:50px;
+}
